@@ -50,7 +50,6 @@ body {
     width: 70%;
 }
 VItor08092008
-<<<<<<< HEAD
 #campo-senha:focus{
     outline: none;@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
 
@@ -105,9 +104,6 @@ body{
 }
 VItor08092008
 #campo-senha:focus{
-=======
-#campo-senha:focus {
->>>>>>> cad3133aec9baaaa1f6389d36af0574584c660fc
     outline: none;
 }
 
